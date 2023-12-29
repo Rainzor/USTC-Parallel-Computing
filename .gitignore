@@ -6,3 +6,6 @@ Debug
 Release
 build
 __pycache__
+*.zip
+*.exe
+
