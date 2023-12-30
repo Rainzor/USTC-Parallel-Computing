@@ -1,0 +1,3 @@
+# Parallel Computing in USTC, 2023
+
+This course briefly discusses the hardware foundation of parallel computing that is contemporary parallel computer architecture model, focuses on the core parts of parallel computing that are design of parallel algorithms and typical numerical parallel algorithms, and presents the software supports of parallel computing that are the design principle of parallel program and the main programming methods. These will emphasize the integration of parallel computer architecture, parallel algorithm design and parallel programming, focus on discussion of the basic principles and methods of parallel computing, show that the application of parallel programming, and try to reveal the development and latest achievements of the discipline.
